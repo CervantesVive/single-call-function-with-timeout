@@ -6,12 +6,19 @@
   "scripts": {
     "test": "mocha test/test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CervantesVive/single-call-function-with-timeout.git"
+  },
   "keywords": [
     "function",
     "utility"
   ],
   "author": "ivo@poeticsilk.com",
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/CervantesVive/single-call-function-with-timeout/issues"
+  },
   "devDependencies": {
     "chai": "^3.3.0",
     "mocha": "^2.3.3",
