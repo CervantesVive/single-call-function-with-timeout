@@ -1,0 +1,20 @@
+{
+  "name": "single-call-function-with-timeout",
+  "version": "0.1.0",
+  "description": "Utility to create functions that can only be called once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "function",
+    "utility"
+  ],
+  "author": "ivo@poeticsilk.com",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.1"
+  }
+}
