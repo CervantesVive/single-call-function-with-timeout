@@ -2,7 +2,7 @@
 
 Utility to create functions that can only be called once.
 
-Useful when racing two async flows and you want a common callback to be called ny the winner only once.
+Useful when racing two async flows and you want a common callback to be called by the winner only once.
 
 ## Install
 
